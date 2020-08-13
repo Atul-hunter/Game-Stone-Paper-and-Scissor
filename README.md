@@ -1,2 +1,3 @@
 # Game- Stone Paper Scissor
-Day to day projects
+Generates Computer's turn with the help of random no generator function
+\br score calculator
